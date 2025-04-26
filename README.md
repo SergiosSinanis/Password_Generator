@@ -72,19 +72,20 @@ sergiosinanis@gmail.com
 
 ## Support:
 For bugs, feature requests, or questions, please open an issue in the GitHub repository.
-Version History:
+
+### Version History:
 1.0.0 - Initial release
 
-Basic password generation
-Character type selection
-Input validation
-Error handling
+- Basic password generation
+- Character type selection
+- Input validation
+- Error handling
 
 ## Future Improvements:
 
-Password strength meter
-Save password history
-GUI interface
-Custom character sets
-Password encryption
-Multiple password generation
+- Password strength meter
+- Save password history
+- GUI interface
+- Custom character sets
+- Password encryption
+- Multiple password generation
