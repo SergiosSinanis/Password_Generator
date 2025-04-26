@@ -3,34 +3,34 @@ A secure and customizable password generator built in C#. This console applicati
 
 ## Features:
 
-Custom password length (1-100 characters)
-Multiple character type options:
+- Custom password length (1-100 characters)
+- Multiple character type options:
 
-Uppercase letters (A-Z)
-Lowercase letters (a-z)
-Numbers (0-9)
-Special symbols (!@#$%^&*()_+-=[]{}|;:',.<>?/)
+- Uppercase letters (A-Z)
+- Lowercase letters (a-z)
+- Numbers (0-9)
+- Special symbols (!@#$%^&*()_+-=[]{}|;:',.<>?/)
 
-Includes:
-Input validation
-Error handling
-User-friendly interface
-Flexible character set combinations
+### Includes:
+- Input validation
+- Error handling
+- User-friendly interface
+- Flexible character set combinations
 
 ## Requirements:
 
-.NET 6.0 or higher
-Visual Studio 2022 or compatible IDE
+- .NET 6.0 or higher
+- Visual Studio 2022 or compatible IDE
 
 ## How to Use:
 
-Run the application
-Enter desired password length
-Specify character types (upper, lower, numbers, symbols)
-Get your generated password
-Choose to generate another or exit
+- Run the application
+- Enter desired password length
+- Specify character types (upper, lower, numbers, symbols)
+- Get your generated password
+- Choose to generate another or exit
 
-Example Usage:
+### Example Usage:
 Input: "12, upper, numbers"
 Output: Generated password with 12 characters containing uppercase letters and numbers
 Example Commands:
@@ -41,10 +41,10 @@ Example Commands:
 
 ## Error Handling:
 
-Invalid length detection
-Unknown character type validation
-Empty input protection
-Overflow protection
+- Invalid length detection
+- Unknown character type validation
+- Empty input protection
+- Overflow protection
 
 ## Best Practices:
 
